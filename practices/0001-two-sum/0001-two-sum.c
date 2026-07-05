@@ -7,7 +7,8 @@
 */
 #define TABLE_SIZE 20011
 
-typedef struct Node {
+typedef struct Node 
+{
     int key;              // key = nums[i]
     int value;            // value = index i
     struct Node* next;    // used when a collision occurs
