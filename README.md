@@ -14,39 +14,7 @@
 
 ---
 
-# Topic 1 — Array, String, Two Pointers, Sliding Window
-
-| No. | Problem | Difficulty |
-|---:|---|---|
-| 1 | [0001-two-sum](https://github.com/haikevins/dsa/tree/main/practices/0001-two-sum) | Easy |
-| 2 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haikevins/dsa/tree/main/practices/0121-best-time-to-buy-and-sell-stock) | Easy |
-| 3 | [0217-contains-duplicate](https://github.com/haikevins/dsa/tree/main/practices/0217-contains-duplicate) | Easy |
-| 4 | [0053-maximum-subarray](https://github.com/haikevins/dsa/tree/main/practices/0053-maximum-subarray) | Medium |
-| 5 | [0283-move-zeroes](https://github.com/haikevins/dsa/tree/main/practices/0283-move-zeroes) | Easy |
-| 6 | [0088-merge-sorted-array](https://github.com/haikevins/dsa/tree/main/practices/0088-merge-sorted-array) | Easy |
-| 7 | [0026-remove-duplicates-from-sorted-array](https://github.com/haikevins/dsa/tree/main/practices/0026-remove-duplicates-from-sorted-array) | Easy |
-| 8 | [0027-remove-element](https://github.com/haikevins/dsa/tree/main/practices/0027-remove-element) | Easy |
-| 9 | [0977-squares-of-a-sorted-array](https://github.com/haikevins/dsa/tree/main/practices/0977-squares-of-a-sorted-array) | Easy |
-| 10 | [0011-container-with-most-water](https://github.com/haikevins/dsa/tree/main/practices/0011-container-with-most-water) | Medium |
-| 11 | [0015-3sum](https://github.com/haikevins/dsa/tree/main/practices/0015-3sum) | Medium |
-| 12 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haikevins/dsa/tree/main/practices/0167-two-sum-ii-input-array-is-sorted) | Medium |
-| 13 | [0125-valid-palindrome](https://github.com/haikevins/dsa/tree/main/practices/0125-valid-palindrome) | Easy |
-| 14 | [0344-reverse-string](https://github.com/haikevins/dsa/tree/main/practices/0344-reverse-string) | Easy |
-| 15 | [0151-reverse-words-in-a-string](https://github.com/haikevins/dsa/tree/main/practices/0151-reverse-words-in-a-string) | Medium |
-| 16 | [0003-longest-substring-without-repeating-characters](https://github.com/haikevins/dsa/tree/main/practices/0003-longest-substring-without-repeating-characters) | Medium |
-| 17 | [0209-minimum-size-subarray-sum](https://github.com/haikevins/dsa/tree/main/practices/0209-minimum-size-subarray-sum) | Medium |
-| 18 | [0438-find-all-anagrams-in-a-string](https://github.com/haikevins/dsa/tree/main/practices/0438-find-all-anagrams-in-a-string) | Medium |
-| 19 | [0239-sliding-window-maximum](https://github.com/haikevins/dsa/tree/main/practices/0239-sliding-window-maximum) | Hard |
-| 20 | [0238-product-of-array-except-self](https://github.com/haikevins/dsa/tree/main/practices/0238-product-of-array-except-self) | Medium |
-| 21 | [0189-rotate-array](https://github.com/haikevins/dsa/tree/main/practices/0189-rotate-array) | Medium |
-| 22 | [0169-majority-element](https://github.com/haikevins/dsa/tree/main/practices/0169-majority-element) | Easy |
-| 23 | [0485-max-consecutive-ones](https://github.com/haikevins/dsa/tree/main/practices/0485-max-consecutive-ones) | Easy |
-| 24 | [0075-sort-colors](https://github.com/haikevins/dsa/tree/main/practices/0075-sort-colors) | Medium |
-| 25 | [0041-first-missing-positive](https://github.com/haikevins/dsa/tree/main/practices/0041-first-missing-positive) | Hard |
-
----
-
-# Topic 2 — Bit Manipulation, Math
+# Topic 1 Bit Manipulation, Math
 
 | No. | Problem | Difficulty |
 |---:|---|---|
@@ -73,24 +41,7 @@
 
 ---
 
-# Topic 3 — Binary Search, Sorting
-
-| No. | Problem | Difficulty |
-|---:|---|---|
-| 46 | [0704-binary-search](https://github.com/haikevins/dsa/tree/main/practices/0704-binary-search) | Easy |
-| 47 | [0035-search-insert-position](https://github.com/haikevins/dsa/tree/main/practices/0035-search-insert-position) | Easy |
-| 48 | [0278-first-bad-version](https://github.com/haikevins/dsa/tree/main/practices/0278-first-bad-version) | Easy |
-| 49 | [0033-search-in-rotated-sorted-array](https://github.com/haikevins/dsa/tree/main/practices/0033-search-in-rotated-sorted-array) | Medium |
-| 50 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haikevins/dsa/tree/main/practices/0153-find-minimum-in-rotated-sorted-array) | Medium |
-| 51 | [0852-peak-index-in-a-mountain-array](https://github.com/haikevins/dsa/tree/main/practices/0852-peak-index-in-a-mountain-array) | Easy |
-| 52 | [0162-find-peak-element](https://github.com/haikevins/dsa/tree/main/practices/0162-find-peak-element) | Medium |
-| 53 | [0215-kth-largest-element-in-an-array](https://github.com/haikevins/dsa/tree/main/practices/0215-kth-largest-element-in-an-array) | Medium |
-| 54 | [0056-merge-intervals](https://github.com/haikevins/dsa/tree/main/practices/0056-merge-intervals) | Medium |
-| 55 | [0057-insert-interval](https://github.com/haikevins/dsa/tree/main/practices/0057-insert-interval) | Medium |
-
----
-
-# Topic 4 — Stack, Queue, Circular Buffer
+# Topic 3 Stack, Queue, Circular Buffer
 
 | No. | Problem | Difficulty |
 |---:|---|---|
@@ -109,24 +60,7 @@
 
 ---
 
-# Topic 5 — Linked List
-
-| No. | Problem | Difficulty |
-|---:|---|---|
-| 68 | [0206-reverse-linked-list](https://github.com/haikevins/dsa/tree/main/practices/0206-reverse-linked-list) | Easy |
-| 69 | [0021-merge-two-sorted-lists](https://github.com/haikevins/dsa/tree/main/practices/0021-merge-two-sorted-lists) | Easy |
-| 70 | [0141-linked-list-cycle](https://github.com/haikevins/dsa/tree/main/practices/0141-linked-list-cycle) | Easy |
-| 71 | [0142-linked-list-cycle-ii](https://github.com/haikevins/dsa/tree/main/practices/0142-linked-list-cycle-ii) | Medium |
-| 72 | [0876-middle-of-the-linked-list](https://github.com/haikevins/dsa/tree/main/practices/0876-middle-of-the-linked-list) | Easy |
-| 73 | [0019-remove-nth-node-from-end-of-list](https://github.com/haikevins/dsa/tree/main/practices/0019-remove-nth-node-from-end-of-list) | Medium |
-| 74 | [0234-palindrome-linked-list](https://github.com/haikevins/dsa/tree/main/practices/0234-palindrome-linked-list) | Easy |
-| 75 | [0002-add-two-numbers](https://github.com/haikevins/dsa/tree/main/practices/0002-add-two-numbers) | Medium |
-| 76 | [0160-intersection-of-two-linked-lists](https://github.com/haikevins/dsa/tree/main/practices/0160-intersection-of-two-linked-lists) | Easy |
-| 77 | [0138-copy-list-with-random-pointer](https://github.com/haikevins/dsa/tree/main/practices/0138-copy-list-with-random-pointer) | Medium |
-
----
-
-# Topic 6 — Matrix, Simulation, Prefix Sum, Counting
+# Topic 5 Matrix, Simulation, Prefix Sum, Counting
 
 | No. | Problem | Difficulty |
 |---:|---|---|
@@ -146,19 +80,7 @@
 
 ---
 
-# Topic 7 — Hash Table, Counting
-
-| No. | Problem | Difficulty |
-|---:|---|---|
-| 91 | [0242-valid-anagram](https://github.com/haikevins/dsa/tree/main/practices/0242-valid-anagram) | Easy |
-| 92 | [0383-ransom-note](https://github.com/haikevins/dsa/tree/main/practices/0383-ransom-note) | Easy |
-| 93 | [0049-group-anagrams](https://github.com/haikevins/dsa/tree/main/practices/0049-group-anagrams) | Medium |
-| 94 | [0347-top-k-frequent-elements](https://github.com/haikevins/dsa/tree/main/practices/0347-top-k-frequent-elements) | Medium |
-| 95 | [0350-intersection-of-two-arrays-ii](https://github.com/haikevins/dsa/tree/main/practices/0350-intersection-of-two-arrays-ii) | Easy |
-
----
-
-# Topic 8 — Tree, DFS, BFS Basics
+# Topic 7 Tree, DFS, BFS Basics
 
 | No. | Problem | Difficulty |
 |---:|---|---|
